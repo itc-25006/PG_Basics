@@ -1,0 +1,1 @@
+print("Sawauer"*3)
